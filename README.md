@@ -1,6 +1,6 @@
 # Sorting Algorithms Repository
 
-This repository contains implementations of six sorting algorithms written in C++: Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Quick Sort, and Merge Sort.
+This repository contains implementations of six sorting algorithms written in C++: Bubble Sort, Selection Sort, Insertion Sort, Shell Sort, Quick Sort, and Merge Sort. I used these algorithms in a comparison test of their execution time, gradually increasing the size of the array to be sorted. 
 
 ## Algorithms
 
