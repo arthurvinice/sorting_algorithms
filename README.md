@@ -22,7 +22,7 @@ Insertion Sort is another simple sorting algorithm that builds the final sorted 
 ### 4. Shell Sort
 Shell Sort is an optimization of Insertion Sort that allows the exchange of items that are far apart. It starts by sorting pairs of elements far apart from each other and then progressively reduces the gap between elements to be compared.
 
-- **Time Complexity**: O(n log^2 n) in the worst case, but can perform better than O(n^2) depending on the gap sequence used.
+- **Time Complexity**: O(n log n)^2 in the worst and average cases, but performs O(n log n) in the best case.
 
 ### 5. Quick Sort
 Quick Sort is a divide-and-conquer algorithm that works by selecting a 'pivot' element from the list and partitioning the other elements into two sub-arrays according to whether they are less than or greater than the pivot. It then recursively sorts the sub-arrays.
