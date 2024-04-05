@@ -57,7 +57,7 @@ void mergeSort(vector<int> &v, int low, int high){
 
 int main() {
     //Define vector sizes for testing
-    vector<int> sizes = {10, 100, 1000, 10000, 100000,1000000}; //Sizes for testing
+    vector<int> sizes = {1000, 10000, 25000, 50000, 75000, 100000}; //Sizes for testing
 
     for (int size : sizes) {
         //Generate random vector
