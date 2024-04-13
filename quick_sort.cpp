@@ -39,7 +39,7 @@ void quickSort(vector<int> &v, int low, int high){
 
 int main() {
     // Defining vector sizes for testing
-    vector<int> sizes = {1000, 10000, 25000, 50000, 75000, 100000}; // Sizes for testing
+    vector<int> sizes = {10000, 25000, 50000, 75000, 100000, 200000, 500000}; // Sizes for testing
 
     for (int size : sizes) {
         // Generate random vector
